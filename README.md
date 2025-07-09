@@ -12,7 +12,7 @@ This project builds a Random Forest classifier in Python to predict daily AAPL s
 ### Setup
 
 In Google Colab, install the `yfinance` package by running:
-import yfinance as yf
+import yfinance as yf 
 
 ```bash
 !pip install yfinance
